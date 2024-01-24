@@ -1,0 +1,4 @@
+'''''
+  exec python3 /usr/share/hash-identifier/hash-id.py
+
+'''''
