@@ -1,0 +1,10 @@
+'''
+john --wordlist=/usr/share/wordlists/rockyou.txt {hash_to_crack}.txt
+
+''''
+format gostermek lazim olanda
+
+'''
+john --format=raw-md5 --wordlist=/usr/share/wordlists/rockyou.txt hash_to_crack.txt
+
+''''
