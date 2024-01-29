@@ -1,0 +1,6 @@
+ssh rsa kohne versiya olanda key
+
+''''
+-o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedAlgorithms=+ssh-rsa
+
+''''
